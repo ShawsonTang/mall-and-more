@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mallandmore-coupon" />
+        <module name="mallandmore-ware" />
+        <module name="mallandmore-order" />
+        <module name="mallandmore-product" />
+        <module name="mallandmore-member" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Mall&amp;More" target="1.5" />
+      <module name="mallandmore-coupon" target="1.8" />
+      <module name="mallandmore-member" target="1.8" />
+      <module name="mallandmore-order" target="1.8" />
+      <module name="mallandmore-product" target="1.8" />
+      <module name="mallandmore-ware" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mallandmore-coupon" options="-parameters" />
+      <module name="mallandmore-member" options="-parameters" />
+      <module name="mallandmore-order" options="-parameters" />
+      <module name="mallandmore-product" options="-parameters" />
+      <module name="mallandmore-ware" options="-parameters" />
+    </option>
+  </component>
+</project>

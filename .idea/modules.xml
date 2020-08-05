@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mall&amp;More.iml" filepath="$PROJECT_DIR$/.idea/Mall&amp;More.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallandmore-coupon/mallandmore-coupon.iml" filepath="$PROJECT_DIR$/mallandmore-coupon/mallandmore-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallandmore-member/mallandmore-member.iml" filepath="$PROJECT_DIR$/mallandmore-member/mallandmore-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallandmore-order/mallandmore-order.iml" filepath="$PROJECT_DIR$/mallandmore-order/mallandmore-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallandmore-product/mallandmore-product.iml" filepath="$PROJECT_DIR$/mallandmore-product/mallandmore-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallandmore-ware/mallandmore-ware.iml" filepath="$PROJECT_DIR$/mallandmore-ware/mallandmore-ware.iml" />
+    </modules>
+  </component>
+</project>
