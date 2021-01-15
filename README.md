@@ -2,7 +2,7 @@
 
 #Vitual Box Configuration
 
-`vagrant init centos/7` Use vagrant to build and manage a virtual box in a single flow 
+`vagrant init centos/7` Use vagrant to build and manage a virtual box in a single flow \n
 `vagrant up` to start the virtual box
 `vagrant ssh` to communicate local machine with the virtual box
 `ip addr` to check ip address
