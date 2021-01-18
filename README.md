@@ -45,5 +45,3 @@ go to nacos file and `startup.sh` to start registration center https://github.co
 
 
 
-
-
